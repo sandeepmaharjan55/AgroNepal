@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="newsrss.xml" rel="self" type="application/rss+xml" />
+    <title>Agriculture Nepal News Feed</title>
+    <link>http://www.surfing-waves.com/</link>
+    <description>Latest News In the Surfing World</description>
+    <language>en-us</language>
+
+    <image>
+      <title>Agriculture Nepal</title>
+      <url>http://www.surfing-waves.com/media/images/mini_surf_rss.jpg</url>
+      <link>http://www.surfing-waves.com</link>
+      <width>140</width>
+      <height>79</height>
+    </image>
+
+    <item>
+      <title>ART OF SURF art exhibit running at One Gallery in Santa Monica</title>
+      <link>http://www.surfing-waves.com/news/story1770_art-of-surf-art-exhibit.htm</link>
+      <description>The Art of Surf art exhibition is currently running at the One Recovery Pop Up Gallery in Santa Monica, California. The exhibition features artwork from many iconic surf artists and includes Eddie Aikau's rescue surfboard - the board that Eddie was last s</description>
+      <guid>http://www.surfing-waves.com/news/story1770_art-of-surf-art-exhibit.htm</guid>
+    </item>
+
+    <item>
+      <title>Josh Kerr wins the Todos Santos Challenge</title>
+      <link>http://www.surfing-waves.com/news/story1769_josh-kerr-wins-todos-santos-challenge.htm</link>
+      <description>Josh Kerr takes out the third event on the World Surf League Big Wave Tour in 30 foot waves off the coast of Baja California.</description>
+      <guid>http://www.surfing-waves.com/news/story1769_josh-kerr-wins-todos-santos-challenge.htm</guid>
+    </item>
+
+    <item>
+      <title>De Souza Takes the 2015 WSL Title</title>
+      <link>http://www.surfing-waves.com/news/story1768_de-souza-takes-2015-wsl-title.htm</link>
+      <description>Adriano de Souza has won the 2015 World Surf League title at Pipeline in Hawaii.</description>
+      <guid>http://www.surfing-waves.com/news/story1768_de-souza-takes-2015-wsl-title.htm</guid>
+    </item>
+
+    <item>
+      <title>Jeremy Flores Wins 2015 Billabong Pro Tahiti</title>
+      <link>http://www.surfing-waves.com/news/story1767_jeremy-flores-wins-2015-billabong-pro-tahiti.htm</link>
+      <description>Jeremy Flores triumphs in the 2015 Billabong Pro Tahiti, beating Gabriel Medina in the final of this years event.</description>
+      <guid>http://www.surfing-waves.com/news/story1767_jeremy-flores-wins-2015-billabong-pro-tahiti.htm</guid>
+    </item>
+
+    <item>
+      <title>International Surf Film Festival 2015</title>
+      <link>http://www.surfing-waves.com/news/story1766_international-surf-film-festival-2015.htm</link>
+      <description>The 2015 International Film Festival will run from the 10th to 13th July and will be held at Chambre d'Amour d'Anglet, Anglet, France.</description>
+      <guid>http://www.surfing-waves.com/news/story1766_international-surf-film-festival-2015.htm</guid>
+    </item>
+
+    <item>
+      <title>US Open of Surfing - 27th July 2015</title>
+      <link>http://www.surfing-waves.com/news/story1765_us-open-of-surfing-2015.htm</link>
+      <description>The sixth stage of the Women's Championship Tour, the Vans US Open of Surfing, will run from 27th July through to August 2nd.</description>
+      <guid>http://www.surfing-waves.com/news/story1765_us-open-of-surfing-2015.htm</guid>
+    </item>
+
+    <item>
+      <title>Owen Wright Perfection in Fiji Pro Final</title>
+      <link>http://www.surfing-waves.com/news/story1764_owen-wright-perfection-in-fiji-pro-final.htm</link>
+      <description>Owen Wright wins this year's Fiji Pro at Cloudbreak with an outstanging performance in the final, scoring two perfect 10 point rides.</description>
+      <guid>http://www.surfing-waves.com/news/story1764_owen-wright-perfection-in-fiji-pro-final.htm</guid>
+    </item>
+
+    <item>
+      <title>Filipe Toledo and Courtney Conlogue Triumph in Rio</title>
+      <link>http://www.surfing-waves.com/news/story1763_toledo-conlogue-triumph-in-rio.htm</link>
+      <description>Filipe Toledo and Courtney Conlogue won the men's and women's Oi Rio pro events at Barra Da Tijuca, Brazil. Check out the video of the Final day.</description>
+      <guid>http://www.surfing-waves.com/news/story1763_toledo-conlogue-triumph-in-rio.htm</guid>
+    </item>
+
+    <item>
+      <title>Adriano De Souza Wins the 2015 Drug Aware Pro</title>
+      <link>http://www.surfing-waves.com/news/story1762_adriano-de-souza-wins-drug-aware-pro.htm</link>
+      <description>Adriano De Souza bests John John Florence in the final of the Drug Aware Margaret River Pro 2015. Waves have been excellent throughout the event.</description>
+      <guid>http://www.surfing-waves.com/news/story1762_adriano-de-souza-wins-drug-aware-pro.htm</guid>
+    </item>
+
+    <item>
+      <title>Mick Fanning wins the 2015 Rip Curl Pro Bells Beach</title>
+      <link>http://www.surfing-waves.com/news/story1761_fanning-wins-2015-rip-curl-pro-bells-beach.htm</link>
+      <description>Mick Fanning defeats Adriano de Souza in the final at Bells Beach to take the 2015 Rip Curl Pro Title. Fanning joins Kelly Slater and Mark Richards as a four time winner of the event.</description>
+      <guid>http://www.surfing-waves.com/news/story1761_fanning-wins-2015-rip-curl-pro-bells-beach.htm</guid>
+    </item>
+
+  </channel>
+</rss>
